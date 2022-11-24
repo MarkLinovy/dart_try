@@ -1,7 +1,7 @@
 name: dart_try
 description: The Try control gives us the ability write safe code without focusing on try-catch blocks in the presence of exceptions.
 version: 0.0.1
-homepage: https://www.example.com
+homepage: https://github.com/MarkLinovy/dart_try
 
 environment:
   sdk: '>=2.18.4 <3.0.0'
